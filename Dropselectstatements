@@ -1,0 +1,19 @@
+/* 
+Drop statements of all tables
+drop table rating;
+drop table `order`;
+drop table supplier_pricing;
+drop table product;
+drop table category;
+drop table customer;
+drop table supplier;
+
+select statements of all tables
+select * from rating;
+select * from `order` for update;
+select * from supplier_pricing;
+select * from product;
+select * from category;
+select * from customer;
+select * from supplier;
+*/
